@@ -1,4 +1,4 @@
-# Al Jawda <img src="assets/icon/aljawda-logo.png" alt="icon" width="20px" height="20px">: A B2B Shopping App 🛒 
+# Al Jawda <img src="/aljawda-logo.png" alt="icon" width="20px" height="20px">: A B2B Shopping App 🛒 
 
 ## 🌟 Overview
 This client-side app is part of a freelancing project for a friend’s startup idea. It enables users to register and log in securely using email, password, or Google Sign-In. The app allows users to browse suppliers, manage their carts, place and track orders, view order history, and save favorite products, providing a streamlined e-commerce experience.
@@ -13,14 +13,9 @@ This client-side app is part of a freelancing project for a friend’s startup i
 
 ## 🎥 Demo Video
 
-<video width="320" height="240" controls>
-  <source src="assets/videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-## 📸 Screenshots
 
-![demo](assets/videos/output.gif)
+![demo](/output.gif)
 
 ## 📋 Usage
 
