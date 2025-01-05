@@ -30,7 +30,7 @@ This client-side app is part of a freelancing project for a friend’s startup i
 
 ## 🤝 Contributing
 
-Contributions are welcome! 🎉 Please fork the repository and submit a pull request 🔄.
+Contributions are welcome! 🎉 Please send me mail ✉️.
 
 ## 📜 License
 
